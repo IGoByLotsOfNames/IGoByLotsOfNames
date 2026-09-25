@@ -4,7 +4,7 @@ I am a Computer Science undergraduate at the National University of Singapore, i
 
 ## Selected work
 
-- **[Genius Kitchen](https://github.com/IGoByLotsOfNames/genius-kitchen)** — a Windows inventory and recipe application designed to reduce household food waste by tracking expiry dates and matching available ingredients to recipes.
+- **[Genius Kitchen](https://github.com/IGoByLotsOfNames/Genius-Kitchen)** — a Windows inventory and recipe application designed to reduce household food waste by tracking expiry dates and matching available ingredients to recipes.
 - **[Thyroid Nodule CNN Proof of Concept](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc)** — an applied computer-vision research pipeline covering image preprocessing, multiple CNN architectures, ensemble evaluation and documented limitations.
 - **[Cryptographic Hash Avalanche Analysis](https://github.com/IGoByLotsOfNames/hash-avalanche-analysis)** — a reproducible Python experiment comparing the output-bit behaviour of SHA-256 and MD5.
 - **[Competitive Programming](https://github.com/IGoByLotsOfNames/competitive-programming-selected)** — selected C++ solutions demonstrating graph algorithms, dynamic programming and shortest-path techniques.
