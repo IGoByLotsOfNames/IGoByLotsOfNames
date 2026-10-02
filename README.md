@@ -8,9 +8,15 @@ I'm Jirapas Wongtreenatrkoon, interested in **software engineering and applied A
 
 ### [Genius Kitchen](https://github.com/IGoByLotsOfNames/Genius-Kitchen)
 
-A Windows food-inventory and recipe application, inspired by ingredients being forgotten and going to waste at home. Built with Python and Tkinter; received the **Distinction Award and People's Choice Award** at the 2021 Coding Lab International Coding Competition.
+A food-inventory and recipe project, inspired by ingredients being forgotten and going to waste at home. The original Python/Tkinter application received the **Distinction Award and People's Choice Award** at the 2021 Coding Lab International Coding Competition.
 
-Explore the [product story](https://github.com/IGoByLotsOfNames/Genius-Kitchen/blob/main/docs/ORIGINAL_PROJECT.md), original logo and diagrams of the current inventory, storage and recipe-matching implementation.
+Recent work developed the project into native desktop and local browser editions, with substantial Codex collaboration on implementation, debugging, tests and packaging under my direction. Explore the [product story](https://github.com/IGoByLotsOfNames/Genius-Kitchen/blob/main/docs/ORIGINAL_PROJECT.md), current demos and engineering checks.
+
+### [Currency Rate Prompter](https://github.com/IGoByLotsOfNames/currency-rate-prompter)
+
+A Python exchange-rate monitor that turns timestamped observations into a local history and threshold alerts. It develops an earlier rate-tracking script into a small service with SQLite persistence, explicit decimal arithmetic and predictable alert behaviour.
+
+Replay a complete scenario offline, explore the history report and follow how an observation becomes an alert through the persistent outbox.
 
 ### [Hash Avalanche Analysis](https://github.com/IGoByLotsOfNames/hash-avalanche-analysis)
 
@@ -30,7 +36,15 @@ Computer-vision research using public thyroid-ultrasound data. I led the CNN pro
 
 The [pipeline diagrams](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc#from-data-to-evaluation) explain grouped data splits, saved model contracts and held-out evaluation in the maintained code. Historical findings are identified separately from current software checks.
 
-Earlier work: [Face Mask Detection](https://github.com/IGoByLotsOfNames/face-mask-detection), a COVID-era learning project combining CNN classification and OpenCV face detection.
+### [Face Mask Detection](https://github.com/IGoByLotsOfNames/face-mask-detection)
+
+A COVID-era learning project combining CNN classification and OpenCV face detection. The original project received a **Commendation at the 2022 Coding Lab International Coding Competition**. The maintained pipeline makes colour handling, model metadata and camera-free testing explicit.
+
+### [TicTacToe](https://github.com/IGoByLotsOfNames/tic-tac-toe)
+
+Nine squares, one stubborn opponent. A playable Python game with a minimax opponent, a more relaxed mode and hints that highlight the best moves.
+
+Under the board: immutable game states, exhaustive correctness checks and measured comparisons of plain minimax, alpha-beta pruning, memoisation and symmetry caching. A small game with plenty to explore once you look past the first draw.
 
 ## Beyond the code
 
@@ -42,7 +56,7 @@ Earlier work: [Face Mask Detection](https://github.com/IGoByLotsOfNames/face-mas
 
 **Languages:** Python, Java, C++
 
-**Used in projects:** Tkinter, TensorFlow/Keras, OpenCV, Git and GitHub
+**Used in projects:** Tkinter, SQLite, TensorFlow/Keras, OpenCV, Git and GitHub
 
 ## Let's connect
 
