@@ -10,17 +10,25 @@ I'm Jirapas Wongtreenatrkoon, interested in **software engineering and applied A
 
 A Windows food-inventory and recipe application, inspired by ingredients being forgotten and going to waste at home. Built with Python and Tkinter; received the **Distinction Award and People's Choice Award** at the 2021 Coding Lab International Coding Competition.
 
+Explore the [product story](https://github.com/IGoByLotsOfNames/Genius-Kitchen/blob/main/docs/ORIGINAL_PROJECT.md), original logo and diagrams of the current inventory, storage and recipe-matching implementation.
+
 ### [Hash Avalanche Analysis](https://github.com/IGoByLotsOfNames/hash-avalanche-analysis)
 
 How much does a digest change when just one input bit changes? Python experiments with MD5 and SHA-256, connecting bitwise programming, reproducible experiments and statistical interpretation.
+
+The maintained implementation includes **two replayable 100,000-trial reports**, streaming histograms and [measured memory comparisons](https://github.com/IGoByLotsOfNames/hash-avalanche-analysis#measured-memory-behaviour), with the assumptions behind each chart documented.
 
 ### [Selected Competitive Programming](https://github.com/IGoByLotsOfNames/competitive-programming-selected)
 
 Six C++ solutions covering graph traversal, shortest paths and dynamic programming. Each includes an explanation of the approach and its time and space complexity.
 
+Follow the [illustrated case studies](https://github.com/IGoByLotsOfNames/competitive-programming-selected/blob/main/docs/case-studies.md): iterative cycle reachability and rolling-row LCS, supported by differential tests, stress cases and recorded benchmarks.
+
 ### [Thyroid Nodule CNN Proof of Concept](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc)
 
 Computer-vision research using public thyroid-ultrasound data. I led the CNN proof of concept and reviewed related research, including comparisons of cropped nodules and complete scans. The repository documents the methods, evaluation assumptions and limitations.
+
+The [pipeline diagrams](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc#from-data-to-evaluation) explain grouped data splits, saved model contracts and held-out evaluation in the maintained code. Historical findings are identified separately from current software checks.
 
 Earlier work: [Face Mask Detection](https://github.com/IGoByLotsOfNames/face-mask-detection), a COVID-era learning project combining CNN classification and OpenCV face detection.
 
