@@ -14,9 +14,9 @@ Recent work developed the project into native desktop and local browser editions
 
 ### [Currency Rate Prompter](https://github.com/IGoByLotsOfNames/currency-rate-prompter)
 
-A Python exchange-rate monitor that turns timestamped observations into a local history and threshold alerts. It develops an earlier rate-tracking script into a small service with SQLite persistence, explicit decimal arithmetic and predictable alert behaviour.
+A personal THB/SGD rate-checking script I built at Hwa Chong International School, first for myself and later with email alerts for my parents. It has evolved into a local Python/SQLite browser app with saved watchlists, historical charts, conversion estimates and durable target rules. The current revision journals alerts locally, with transactional writes, duplicate detection and recovery tests making each decision traceable.
 
-Replay a complete scenario offline, explore the history report and follow how an observation becomes an alert through the persistent outbox.
+[Try the offline demo](https://github.com/IGoByLotsOfNames/currency-rate-prompter/blob/main/docs/demo.md) · [Design decisions](https://github.com/IGoByLotsOfNames/currency-rate-prompter/blob/main/docs/design.md) · [Reproducible benchmark](https://github.com/IGoByLotsOfNames/currency-rate-prompter/blob/main/docs/measurement.md)
 
 ### [Hash Avalanche Analysis](https://github.com/IGoByLotsOfNames/hash-avalanche-analysis)
 
