@@ -18,6 +18,12 @@ A personal THB/SGD rate-checking script I built at Hwa Chong International Schoo
 
 [Try the offline demo](https://github.com/IGoByLotsOfNames/currency-rate-prompter/blob/main/docs/demo.md) · [Design decisions](https://github.com/IGoByLotsOfNames/currency-rate-prompter/blob/main/docs/design.md) · [Reproducible benchmark](https://github.com/IGoByLotsOfNames/currency-rate-prompter/blob/main/docs/measurement.md)
 
+### [Enigma Lab](https://github.com/IGoByLotsOfNames/enigma-lab)
+
+A personal exploration of Enigma, inspired by what modern computing could reveal about a problem associated with Alan Turing. The unfinished Python prototype has grown into a tested three-rotor simulator, with one engine shared by the CLI and a local browser workbench that exposes stepping and signal traces.
+
+Explore all **17,576 starting windows** with the other settings and a known plaintext fragment supplied. The [interactive walkthrough](https://github.com/IGoByLotsOfNames/enigma-lab/blob/main/DEMO.txt) shows unique and ambiguous results; the [four-workload experiment](https://github.com/IGoByLotsOfNames/enigma-lab#measured-search-tradeoffs) explains when early rejection helps and when it takes longer. Every matching candidate and all measured cases are retained.
+
 ### [Hash Avalanche Analysis](https://github.com/IGoByLotsOfNames/hash-avalanche-analysis)
 
 How much does a digest change when just one input bit changes? Python experiments with MD5 and SHA-256, connecting bitwise programming, reproducible experiments and statistical interpretation.
