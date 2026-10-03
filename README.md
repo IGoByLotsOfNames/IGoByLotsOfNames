@@ -32,9 +32,9 @@ Follow the [illustrated case studies](https://github.com/IGoByLotsOfNames/compet
 
 ### [Thyroid Nodule CNN Proof of Concept](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc)
 
-Computer-vision research using public thyroid-ultrasound data. I led the CNN proof of concept and reviewed related research, including comparisons of cropped nodules and complete scans. The repository documents the methods, evaluation assumptions and limitations.
+An original proof of concept I led at KMUTT's ESIC PLUS Laboratory, exploring CNNs, related research and cropped-versus-whole-scan ultrasound inputs.
 
-The [pipeline diagrams](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc#from-data-to-evaluation) explain grouped data splits, saved model contracts and held-out evaluation in the maintained code. Historical findings are identified separately from current software checks.
+Since modernized into a tested, reproducible ML research pipeline with explicit data contracts, duplicate-aware grouped splits, locked evaluation and automated tests. Try the [offline demonstration](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc#try-the-project) or inspect the [five-seed experiment](https://github.com/IGoByLotsOfNames/thyroid-nodule-cnn-poc#a-completed-five-seed-experiment), with source TIRADS labels and evaluation limits documented.
 
 ### [Face Mask Detection](https://github.com/IGoByLotsOfNames/face-mask-detection)
 
