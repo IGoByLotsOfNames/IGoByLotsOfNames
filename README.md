@@ -38,7 +38,9 @@ Since modernized into a tested, reproducible ML research pipeline with explicit 
 
 ### [Face Mask Detection](https://github.com/IGoByLotsOfNames/face-mask-detection)
 
-A COVID-era learning project combining CNN classification and OpenCV face detection. The original project received a **Commendation at the 2022 Coding Lab International Coding Competition**. The maintained pipeline makes colour handling, model metadata and camera-free testing explicit.
+A COVID-era Python project I built to explore mask detection with Kaggle images and a face-detection library. The original project received a **Commendation at the 2022 Coding Lab International Coding Competition**.
+
+The maintained binary pipeline now also supports three mask categories, with explicit crop rules, connected grouping, consistent RGB inputs and complete, validated model bundles. Explore the [synthetic demo](https://github.com/IGoByLotsOfNames/face-mask-detection/blob/main/docs/demo.md) and [controlled input-pipeline benchmark](https://github.com/IGoByLotsOfNames/face-mask-detection/blob/main/docs/measurement-results.md), which measured lower process peak memory. Real recognition accuracy remains unmeasured.
 
 ### [TicTacToe](https://github.com/IGoByLotsOfNames/tic-tac-toe)
 
